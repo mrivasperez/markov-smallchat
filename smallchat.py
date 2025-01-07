@@ -97,9 +97,16 @@ def generate_response(markov_chain, user_input, n=3):
     return " ".join(response_tokens)
 
 
-# Get user input
-user_input = input("You: ")
+# Conversation loop
+while True:
+    # Get user input
+    user_input = input("You: ")
 
-# Generate a response
-response = generate_response(markov_chain, user_input, n=3)
-print("Chatbot:", response)
+    # Check for exit condition
+    if user_input.lower() in ["quit", "exit", "bye"]:
+        print("Chatbot: Goodbye!")
+        break
+
+    # Generate a response
+    response = generate_response(markov_chain, user_input, n=3)
+    print("Chatbot:", response)
