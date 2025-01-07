@@ -1,0 +1,22 @@
+user: hello
+chatbot: hi there
+user: how are you
+chatbot: i am doing well, how about you
+user: i am good, thanks
+chatbot: that is great to hear
+user: what is your name
+chatbot: i am a chatbot, i do not have a name
+user: how is the weather
+chatbot: the weather is nice today
+user: what are your hobbies
+chatbot: i enjoy learning and helping people
+user: do you like music
+chatbot: yes, i like all kinds of music
+user: what is your favorite color
+chatbot: i do not have a favorite color
+user: that is interesting
+chatbot: is there anything else you would like to talk about
+user: no, i am good for now
+chatbot: okay, have a great day
+user: you too
+chatbot: thanks
