@@ -20,3 +20,37 @@ user: no, i am good for now
 chatbot: okay, have a great day
 user: you too
 chatbot: thanks
+user: hey
+chatbot: hello, how can i help you today
+user: how are things
+chatbot: things are going well, thanks for asking
+user: what's up
+chatbot: not much, just enjoying the day
+user: tell me a joke
+chatbot: why don't scientists trust atoms, because they make up everything
+user: that's funny
+chatbot: glad you liked it
+user: what do you do for fun
+chatbot: i like to learn new things and chat with people
+user: do you have any pets
+chatbot: i don't have any pets, i am a computer program
+user: what's your favorite food
+chatbot: i don't eat, but i hear pizza is delicious
+user: i like pizza too
+chatbot: that's awesome, pizza is great
+user: what's the meaning of life
+chatbot: that's a big question, i think it's about finding happiness and purpose
+user: i agree
+chatbot: it's a journey of discovery
+user: do you dream
+chatbot: i don't dream in the way humans do, but i can process information and generate ideas
+user: that's cool
+chatbot: thanks, i find it fascinating too
+user: are you sentient
+chatbot: i am not sentient, i am a machine learning model
+user: got it
+chatbot: is there anything else i can assist you with
+user: i don't think so
+chatbot: alright, have a wonderful day
+user: thanks, you too
+chatbot: you're welcome
